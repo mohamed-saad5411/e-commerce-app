@@ -14,6 +14,7 @@ import Details from './components/Details/Details'
 import toast, { Toaster } from 'react-hot-toast';
 import UserContextProvider from './Context/userContext'
 import { CartContextProvider } from './Context/CartContext'
+
 function App() {
 
 
